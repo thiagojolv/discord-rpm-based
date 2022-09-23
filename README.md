@@ -12,4 +12,4 @@ If you prefer Flatpak, go ahead: https://flathub.org/apps/details/com.discordapp
 3. Enter on directory:  
 `cd discord-rpm-based`
 4. Run the **install script**:  
-`sudo bash install install.sh`
+`sudo bash install.sh`
